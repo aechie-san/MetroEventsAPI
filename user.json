@@ -1,0 +1,41 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "firstname": "David",
+            "lastname": "Ali",
+            "gender": "Male",
+            "username": "davidAli",
+            "password": "123456",
+            "is_admin": "true"
+        },
+        {
+            "id": 2,
+            "firstname": "Charlie",
+            "lastname": "West",
+            "gender": "Male",
+            "username": "westCharlie",
+            "password": "987654",
+            "is_organizer": "true"
+        },
+        {
+            "id": 3,
+            "firstname": "Anne",
+            "lastname": "Lee",
+            "gender": "Female",
+            "username": "anneLee",
+            "password": "789562",
+            "is_admin": "false"
+        },
+        {
+            "id": 4,
+            "firstname": "Diane",
+            "lastname": "Park",
+            "gender": "Female",
+            "username": "dianePark",
+            "password": "357951",
+            "is_admin": "false"
+        }
+    ]
+
+}
